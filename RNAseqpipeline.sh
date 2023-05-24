@@ -35,12 +35,5 @@ cd /mnt/c/Users/angel/Desktop/Bash_workflows/RNAseq_pipeline
 #cd quants
 #cat demo_featurecounts.txt| cut -f1,7 | less
 
-
-
-
-
-
-
-
 duration=$SECONDS
 echo "$(($duration / 60)) minutes and $(($duration % 60)) seconds elapsed"
